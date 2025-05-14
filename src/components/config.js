@@ -21,7 +21,7 @@ const config = {
     "Why does Sandhya love him more?", // Another example query
     `Why does piyush call sandhya shree jii`, // A personalized trending search
   ],
-  proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users // Helpful tip for users
+  proTip: 'Pro tip: try searching "Memories?" ;)', // Helpful tip for users // Helpful tip for users
 
   // ⏳ Timer Page
   anniversaryDate: "2025-02-21", // 📅 Set your anniversary date here (used for the timer)
@@ -140,8 +140,8 @@ const config = {
 
   // 🔍 Search Queries (Only change if modifying search functionality)
   correctSearchQueries: [
-    "How long have we been together?", // Example of a correct search query
-    "How long have we been together?", // Another example of a correct search query
+    "Memories?", // Example of a correct search query
+    "Memories?", // Another example of a correct search query
   ],
 };
 
