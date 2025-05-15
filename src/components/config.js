@@ -24,7 +24,7 @@ const config = {
   proTip: 'Pro tip: try searching "Our Love Story" ;)', // Helpful tip for users // Helpful tip for users
 
   // ⏳ Timer Page
-  anniversaryDate: "2025-02-21", // 📅 Set your anniversary date here (used for the timer)
+  anniversaryDate: "2023-12-14", // 📅 Set your anniversary date here (used for the timer)
   timerTitle: "We've been together for:", // Title displayed on the timer page
   timerMessage: "... and still counting <3", // Message shown alongside the timer
   timeUnits: {
